@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string-array name="Spinner1">
+        <item>Miles</item>
+        <item>Kms</item>
+        <item>Pounds</item>
+        <item>Kgs</item>
+        <item>Inches</item>
+        <item>Cms</item>
+    </string-array>
+</resources>
